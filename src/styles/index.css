@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');
 
-*{
+* {
   box-sizing: border-box;
   margin: 0;
   padding: 0;
@@ -11,7 +11,10 @@ body {
   background: #000;
 }
 
-h1, h4, p, a {
+h1,
+h4,
+p,
+a {
   color: #fff;
   text-decoration: none;
 }
@@ -28,6 +31,7 @@ ul {
   color: #222;
   border: 1px solid #fff;
   font-weight: 600;
+  border-radius: 5px;
   cursor: pointer;
 }
 
